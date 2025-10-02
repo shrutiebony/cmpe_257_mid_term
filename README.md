@@ -1,8 +1,8 @@
 
 The colab file link is: https://colab.research.google.com/drive/10-e_5gziwPk9ZB0SCFeeID_zJAuL0_cZ#scrollTo=tMMP9j5wRRRg
 
-## Housing Insights & Clustering Project
-### Overview
+### Housing Insights & Clustering Project
+#### Overview
 The majority of property sites allow users to filter properties based on price, size, and location. However, soft criteria such as safety, proximity to schools/hospitals, and pollution levels also play a huge role in a property’s value.
 This project explores housing datasets to uncover deeper patterns that balance affordability, safety, and investment potential. Using clustering and visualization, we aim to help buyers and investors make smarter, fact-based choices.
 
@@ -30,7 +30,7 @@ Run the following in Colab to install required dependencies:
 3) Sweetviz / ydata-profiling → Exploratory Data Analysis (EDA)
 4) UMAP → Dimensionality reduction
 5) Scikit-learn → Clustering & machine learning
-### Features & Workflow
+#### Features & Workflow
 ##### 1. Data Preparation
 1) Imported, cleaned, and merged datasets
 2) Handled missing values & duplicates
@@ -56,13 +56,13 @@ Run the following in Colab to install required dependencies:
 3) A reusable pipeline for housing market analysis
 
 
-### How to Run
+#### How to Run
 1) Open the notebook in Google Colab.
 2) Run all cells sequentially.
 3) Explore EDA reports, cluster visualizations, and insights.
 
 
-### Repository Structure
+#### Repository Structure
 Housing.ipynb        # Main Jupyter/Colab notebook
 README.md            # Project documentation
 data/                # Raw and cleaned datasets (if uploaded)
